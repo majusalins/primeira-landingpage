@@ -9,7 +9,7 @@
 
 body{
     font-size: 100%;
-    background-image: linear-gradient(to left top, #000000, #3b3b3b, #777777, #b9b9b9, #ffffff);
+    background-image: linear-gradient(to left top, #3a3a3a, #3b3b3b, #777777, #b9b9b9, #cccccc);
 }
 
 .cabecalho{
@@ -78,7 +78,6 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-left: 545px;
     background-color: #777777;
     width: 200px;
     height: 50px;
