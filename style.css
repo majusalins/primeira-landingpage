@@ -9,7 +9,7 @@
 
 body{
     font-size: 100%;
-    background-image: linear-gradient(to right top, #000000, #3b3b3b, #777777, #b9b9b9, #ffffff);
+    background-image: linear-gradient(to left top, #000000, #3b3b3b, #777777, #b9b9b9, #ffffff);
 }
 
 .cabecalho{
@@ -92,7 +92,7 @@ body{
 }
 
 .conteudo-principal-escrito-botao:hover{
-    background-color: rgba(236, 214, 200, 0.53);
+    background-color: #B0B0B0;
 }
 
 .conteudo-principal-imagem{
